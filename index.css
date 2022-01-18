@@ -1,0 +1,50 @@
+/** {
+	margin: 0;
+	padding: ;
+	box-sizing: border-box;
+}*/
+
+body {
+	background: sandybrown;
+	font-family:'oswald', sans-serif;
+}
+
+.card {
+	width: 18rem; 
+	height: 420px
+}
+
+.m-heading {
+	font-family:'oswald', sans-serif;
+}
+
+.carousel-img {
+	height: 220px;
+}
+
+#Projects {
+	margin-top: 25px;
+}
+
+.servicesimg {
+	height: 200px; 
+	width: 100%;
+
+}
+
+.iconimg {
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	background-size: cover;
+	margin-right: 15px;
+}
+
+.icontainer {
+	width: 200px;
+	display: flex;
+	flex-direction: row;
+	margin: 2rem;
+	align-items: center;
+	
+}
